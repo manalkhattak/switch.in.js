@@ -1,5 +1,6 @@
 let dayOfWeek = prompt("Enter a day of week").toLowerCase()
 
+
 switch(true){
     case dayOfWeek=='monday' || dayOfWeek=='mon' :
         console.log('Chicken Karahi')
@@ -23,4 +24,5 @@ switch(true){
         console.log('Outing')
         break
 }
+
 
